@@ -1,5 +1,5 @@
 デモ用にgithubpagesでホスティングしています。  
-https://thedesignium.github.io/GUCCI-HANAMI/
+https://gakui3.github.io/HANAMI-Demo/
 
 install
 `npm install`
